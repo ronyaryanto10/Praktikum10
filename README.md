@@ -1,4 +1,7 @@
 # Praktikum10
+#### Nama : Rony Aryanto
+#### NIM : 312210204
+#### Kelas : T1.22.A.2
 ```
 txt = 'Hello World'
 • Hitung jumlah karakternya
